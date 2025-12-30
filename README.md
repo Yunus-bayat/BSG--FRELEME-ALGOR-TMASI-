@@ -1,1 +1,4 @@
 # BSG--FRELEME-ALGORITMASI-
+
+
+
